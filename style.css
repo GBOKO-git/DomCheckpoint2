@@ -49,6 +49,19 @@
     color: white;
     box-shadow: 2px 5px black;
   }
+  .footer {
+    position: absolute;
+    top: 650px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    justify-items: end;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9em;
+    gap: 1.5rem;
+  }
 }
 @media (min-width: 768px) {
   body {
